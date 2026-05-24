@@ -13,6 +13,14 @@ body {
     color: black;
 }
 
+h1 {
+    font-size: 50px;
+}
+
+nav {
+    font-size: 28px;
+}
+
 nav ul {
     list-style: none;
     margin-top: 1em;
@@ -31,7 +39,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #e61b00;
+    color: #e61b00ff;
     background-color: #e61b0022;
     border-radius: 0.9em;
 }
